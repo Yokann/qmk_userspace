@@ -43,4 +43,5 @@ Feature
 - Use power led to CAPS_LOCK
 
 ### Tap dance 
-ESC --> CAPS_LOCK
+ESC       --> CAPS_LOCK
+.(hold)   --> >
