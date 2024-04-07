@@ -8,3 +8,5 @@
 // Tap dance setting
 #define TAPPING_TERM 175
 #define TAPPING_TERM_PER_KEY
+
+#define OLED_BRIGHTNESS 28
