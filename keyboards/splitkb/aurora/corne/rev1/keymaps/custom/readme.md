@@ -37,5 +37,10 @@ The Adjust layer exposes RGB adjustment keys on the left hand.
 
 Feature
 -------
+
 ### Misc
-- Disable controller power LED
+- Disable controller power LED 
+- Use power led to CAPS_LOCK
+
+### Tap dance 
+ESC --> CAPS_LOCK
