@@ -7,7 +7,7 @@ What do all these layers do?
 
 ### Layer 0: Base layer
 
-![Layer 0](https://i.imgur.com/Ri5cTHqh.png)
+![Layer 0](https://imgur.com/8Z3ALJP.png)
 
 This is where your basic letters live.
 
@@ -19,19 +19,19 @@ The homing thumb fingers are used to access the different layers.
 
 ### Layer 1: Lower
 
-![Layer 1](https://imgur.com/jayW9u0.png)
+![Layer 1](https://imgur.com/FecpoXy.png)
 
 The Lower layer gives access to your number keys on the top row. It also exposes the arrow keys in the usual Vim-style layout.
 
 ### Layer 2: Raise
 
-![Layer 2](https://imgur.com/s401aLT.png)
+![Layer 2](https://imgur.com/c416tgt.png)
 
 The Raise layer gives access to the symbols. In addition to shifted number keys on the top row, the right hand also exposes the remaining symbol keys, both as shifted and non-shifted variants.
 
 ### Layer 3: Adjust
 
-![Layer 3](https://imgur.com/l6RV3Ft.png)
+![Layer 3](https://imgur.com/O9SHWT1.png)
 
 The Adjust layer exposes RGB adjustment keys on the left hand.
 
@@ -43,5 +43,8 @@ Feature
 - Use power led to CAPS_LOCK
 
 ### Tap dance 
-ESC       --> CAPS_LOCK
+ESC                   --> CAPS_LOCK
+
+LALT(double tap)      --> LGUI
+
 .(hold)   --> >
