@@ -43,8 +43,8 @@ Feature
 - Use power led to CAPS_LOCK
 
 ### Tap dance 
-ESC                   --> CAPS_LOCK
-
-LALT(double tap)      --> LGUI
-
-.(hold)   --> >
+| Key origin | event  | Key result |
+|------------|--------|------------|
+| ESC        | double | CAP LOCK   |
+| LALT       | double | LGUI       |
+| .          | hold   | >          |
