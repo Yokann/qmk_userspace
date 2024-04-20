@@ -47,7 +47,6 @@ Feature
 |------------|--------|------------|
 | RSFT       | double | CAP LOCK   |
 | ENT        | hold   | LGUI       |
-| .          | hold   | >          |
 
 ### Combos
 
