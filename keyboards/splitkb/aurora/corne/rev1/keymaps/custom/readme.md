@@ -45,6 +45,12 @@ Feature
 ### Tap dance 
 | Key origin | event  | Key result |
 |------------|--------|------------|
-| ESC        | double | CAP LOCK   |
-| LALT       | double | LGUI       |
+| RSFT       | double | CAP LOCK   |
+| ENT        | hold   | LGUI       |
 | .          | hold   | >          |
+
+### Combos
+
+| Combination        |  Key result  |
+|--------------------|--------------|
+| JK                 | ESC          |
